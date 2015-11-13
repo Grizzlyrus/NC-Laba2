@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Collection>
+    <modIt>
+        <entry>
+            <key>1</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="order">
+                <Number>1</Number>
+                <Customer_number>1234</Customer_number>
+                <Tariff_number>1</Tariff_number>
+                <Order_date>2015-11-01 12:12:12</Order_date>
+                <Order_sum>200.0</Order_sum>
+            </value>
+        </entry>
+        <entry>
+            <key>1234</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="order">
+                <Number>1234</Number>
+                <Customer_number>1234</Customer_number>
+                <Tariff_number>1234</Tariff_number>
+                <Order_date>1994-03-14 15:20:00</Order_date>
+                <Order_sum>350.0</Order_sum>
+            </value>
+        </entry>
+        <entry>
+            <key>4567</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="order">
+                <Number>4567</Number>
+                <Customer_number>4567</Customer_number>
+                <Tariff_number>4567</Tariff_number>
+                <Order_date>1995-03-20 15:02:00</Order_date>
+                <Order_sum>500.0</Order_sum>
+            </value>
+        </entry>
+        <entry>
+            <key>5678</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="order">
+                <Number>5678</Number>
+                <Customer_number>5678</Customer_number>
+                <Tariff_number>5678</Tariff_number>
+                <Order_date>1988-10-11 00:20:00</Order_date>
+                <Order_sum>10.0</Order_sum>
+            </value>
+        </entry>
+    </modIt>
+</Collection>

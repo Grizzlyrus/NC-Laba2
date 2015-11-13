@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Collection>
+    <modIt>
+        <entry>
+            <key>1</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tariff">
+                <Number>1</Number>
+                <Name>trt</Name>
+                <Speed>100.0</Speed>
+                <Cost>200.0</Cost>
+            </value>
+        </entry>
+        <entry>
+            <key>1235</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tariff">
+                <Number>1235</Number>
+                <Name>SuperSuperFast</Name>
+                <Speed>200.0</Speed>
+                <Cost>700.0</Cost>
+            </value>
+        </entry>
+        <entry>
+            <key>12</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tariff">
+                <Number>12</Number>
+                <Name>ffd</Name>
+                <Speed>2.0</Speed>
+                <Cost>4.0</Cost>
+            </value>
+        </entry>
+    </modIt>
+</Collection>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Collection>
+    <modIt>
+        <entry>
+            <key>1234</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="customer">
+                <Number>1234</Number>
+                <Name>qwerty</Name>
+                <Phone_number>8-800-555-35-35</Phone_number>
+                <Adress>Samara</Adress>
+            </value>
+        </entry>
+        <entry>
+            <key>1379</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="customer">
+                <Number>1379</Number>
+                <Name>Name13</Name>
+                <Phone_number>9368746317</Phone_number>
+                <Adress>Address</Adress>
+            </value>
+        </entry>
+        <entry>
+            <key>9876</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="customer">
+                <Number>9876</Number>
+                <Name>RandomName</Name>
+                <Phone_number>9875632147</Phone_number>
+                <Adress>Address</Adress>
+            </value>
+        </entry>
+        <entry>
+            <key>4567</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="customer">
+                <Number>4567</Number>
+                <Name>Customer№13</Name>
+                <Phone_number>8313131313</Phone_number>
+                <Adress>SomewhereHere</Adress>
+            </value>
+        </entry>
+        <entry>
+            <key>5678</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="customer">
+                <Number>5678</Number>
+                <Name>MegaQwerty</Name>
+                <Phone_number>88462245699</Phone_number>
+                <Adress>Samara</Adress>
+            </value>
+        </entry>
+    </modIt>
+</Collection>
